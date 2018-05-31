@@ -1,4 +1,1 @@
-This is what I want it to say
-This is a new line:
-
-And I like it
+This is a test
